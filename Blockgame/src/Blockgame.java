@@ -8,7 +8,7 @@ public class Blockgame {
 	static class MyFrame extends JFrame {
 		
 		// constant
-		// 변수 상수의 이름을 지정할땐 대문자 + _ 이런식으 해야함.
+		// 상수의 이름을 지정할땐 대문자 + _ 이런식으 해야함.
 		static int BALL_WIDTH = 20;
 		static int BALL_HEIGHT = 20;
 		static int BLOCK_ROWS = 5;
